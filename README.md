@@ -14,6 +14,10 @@
 
 ### Tools
 
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Husky](https://typicode.github.io/husky/#/) && [Lint-Staged](https://github.com/okonet/lint-staged) 
+
 ## To Run
 
 ### Frontend:
